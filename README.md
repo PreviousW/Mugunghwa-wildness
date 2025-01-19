@@ -1,2 +1,3 @@
-# Mugunghwa-wildness
-wildness - with Red Light, Green Light 
+# RGMC
+- 개발중
+- 몆만년만의 버킷인지
